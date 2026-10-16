@@ -33,7 +33,10 @@ Kotlin + Jetpack Compose + Material 3 ・ 完全离线 ・ 零权限申请
 
 ## 截图
 
-![image](https://github.com/baiqy0/Rename-for-Android/edit/main/doc/screenshots/IMG_20261017_011151.jpg)
+![image](doc/screenshots/IMG_20261017_011151.jpg)
+![image2](doc/screenshots/IMG_20261017_011200.jpg)
+![image2](doc/screenshots/IMG_20261017_011206.jpg)
+![image2](doc/screenshots/IMG_20261017_011217.jpg)
 
 ## 下载
 
