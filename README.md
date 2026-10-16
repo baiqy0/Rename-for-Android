@@ -33,7 +33,7 @@ Kotlin + Jetpack Compose + Material 3 ・ 完全离线 ・ 零权限申请
 
 ## 截图
 
-> 占位：`docs/screenshots/`（欢迎 PR 补充截图）
+doc/screenshots/IMG_20261017_011151.jpg
 
 ## 下载
 
