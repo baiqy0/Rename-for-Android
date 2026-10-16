@@ -33,10 +33,13 @@ Kotlin + Jetpack Compose + Material 3 ・ 完全离线 ・ 零权限申请
 
 ## 截图
 
-![image](doc/screenshots/IMG_20261017_011151.jpg)
-![image2](doc/screenshots/IMG_20261017_011200.jpg)
-![image2](doc/screenshots/IMG_20261017_011206.jpg)
-![image2](doc/screenshots/IMG_20261017_011217.jpg)
+<p align="center">
+  <img src="doc/screenshots/IMG_20261017_011151.jpg" width="220">
+  <img src="doc/screenshots/IMG_20261017_011200.jpg" width="220">
+  <img src="doc/screenshots/IMG_20261017_011206.jpg" width="220">
+  <img src="doc/screenshots/IMG_20261017_011217.jpg" width="220">
+</p>
+
 
 ## 下载
 
