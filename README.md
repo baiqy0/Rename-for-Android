@@ -8,6 +8,13 @@ Kotlin + Jetpack Compose + Material 3 ・ 完全离线 ・ 零权限申请
 
 </div>
 
+<p align="center">
+  <img src="doc/screenshots/IMG_20261017_011151.jpg" width="330">
+  <img src="doc/screenshots/IMG_20261017_011200.jpg" width="330">
+  <img src="doc/screenshots/IMG_20261017_011206.jpg" width="330">
+  <img src="doc/screenshots/IMG_20261017_011217.jpg" width="330">
+</p>
+
 ## 简介
 
 整理影视资源时，最烦的就是把一堆 `[字幕组]剧名.S01E02.1080p.mp4` 改成统一规范的名字。Renamdriod 通过 Android 的 **SAF（存储访问框架）** 读写文件——不申请任何存储权限，你选哪个文件夹，应用就只能看到哪个文件夹，授权随时可收回。
@@ -30,15 +37,6 @@ Kotlin + Jetpack Compose + Material 3 ・ 完全离线 ・ 零权限申请
 | 🕘 **操作历史** | 最近 20 次操作记录，可查看详情、可撤销 |
 | 🎨 **主题** | 动态取色（跟随壁纸）+ 6 套内置配色 × 深色/浅色/跟随系统 |
 | 📍 **最近位置** | 记住最近授权的文件夹，一键重新打开，可逐项删除（释放授权） |
-
-## 截图
-
-<p align="center">
-  <img src="doc/screenshots/IMG_20261017_011151.jpg" width="330">
-  <img src="doc/screenshots/IMG_20261017_011200.jpg" width="330">
-  <img src="doc/screenshots/IMG_20261017_011206.jpg" width="330">
-  <img src="doc/screenshots/IMG_20261017_011217.jpg" width="330">
-</p>
 
 
 ## 下载
