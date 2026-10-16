@@ -134,9 +134,6 @@ app/src/main/java/com/renamdroid/batchrename/
 - 不上传、不收集任何文件、文件名或目录结构
 - 设置与操作历史只保存在本机 SharedPreferences
 
-## 需求文档
-
-设计初衷与完整需求见 [`docs/需求.md`](docs/需求.md)。
 
 ## 已知限制
 - 仅支持当前目录，不递归子文件夹
